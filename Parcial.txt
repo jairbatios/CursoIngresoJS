@@ -1,0 +1,44 @@
+1- Se piden por prompt el ancho y el largo de una cancha de futbol y sabiendo que con un litro de pintura blanca, se pintan 3mts lineales.
+Informar el perimetro y la cantidad de litros de pintura se deben comprar para pintar todo el perimetro.
+
+2-Se ingresan por prompt el nombre, la edad, el apellido y la localidad. Mostror el siguiente mensaje: "UD es xx xx, tiene xx años de edad
+y vive en xx
+
+3- Pedir por prompt el importe del producto, la cantidad y el nombre, mostrar un solo mensajecon el siguiente texto: compró la 
+cantidad de xx del producto xx, a un precio de xx con iva incluido.
+
+4- Pedir tres numeros e informar cual es el mayor y el menor de los mismos
+
+5- Pedir el ingreso de un mes del año e informar si es de 3 dias o de 0 o es febrero
+
+6- Se ingresa una estacion del año (Verano, invierno, otoño, primavera) y un valor detemperatura. Se pide mostrar por alert : Si la estacion
+es invierno y la temperatura está entre 1° y 5° el mensaje "Que fresquete!!!". Si la estacion es primavera o verano y la temperatura 
+supera los 32° "Es un horno!!" si no la supera y no baja  a menos de 20 mostrar "Que calorcito!!!". Si es otoño con 15° mostrar "Está lindo", si está 
+por debajo de esa temperatura mostrar "Se vino el  frio" y si la supera los 15 y pero no pasa de 21 "está re bueno!". Si supera el ultimo valor mostrar
+"mucho calor para el otoño"
+
+7- Realizar un algoritmo que permita el ingreso del nombre, el ancho, el alto y el peso de 5 productos
+Validar todos los datos, sabiendo que no puede tener mas de 10 de ancho y 10 de alto, y su peso no puede
+ superar los mil kg. Informar:
+a_ el peso mas pesado
+b_la altura mas alta
+c_el menor ancho
+d_la cantidad que tiene un peso entre 300 y 600 kg
+
+8-Re alozar un algoritmo que pide el ingreso de varias series televisivas, de las cuales se pide el titulo, la cantidad de capitulos mas de 0 y el tipo 
+('d' = drama, 't' =triller, 'c' = comedia y 'o'=otras). Se pide:
+a_la cantidad de series con capitulos pares
+b_el nombre de la que tiene mas capitulos
+c_eltipo de la que tiene menos capitulos
+d_el promedio de capitulos entre todas las ingresadas.
+
+
+9- En una tienda se ingresan los datos de los clientes (nombre, sexo, estado civil (soltero, casado, viudo), cantidad de productos e importe total de la compra)
+Necesitamos saber:
+a- el nombre de la persona que mas cantidad de productos compró
+b-de los solteros, el sexo del que mas gasto y el que menos gasto
+c-el importe y nombre de la primer mujer en comprar
+d- el promedio de gasto de viudos
+
+
+ 
